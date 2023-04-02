@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kartoffel Task</string>
+    <string name="price">Rp. %s</string>
+</resources>
